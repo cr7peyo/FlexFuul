@@ -17,5 +17,5 @@
             document.body.style.display = "none";
             setTimeout(function() {
               document.body.style.display = "block";
-            }, 4000);
+            }, 2000);
 });
